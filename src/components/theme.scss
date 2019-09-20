@@ -1,0 +1,22 @@
+@import url('https://fonts.googleapis.com/css?family=Muli:300,400,600,700,800,900&display=swap');
+
+$grey-background-color: #707070;
+$faded-red: #735856;
+$light-green: #9dcab2;
+$cream-white: #d9d4ba;
+$dark-grey: #595959;
+
+div.custom-btn {
+  padding: 10px 40px;
+  color: $light-green;
+  background-color: $faded-red;
+  font-weight: 700;
+  font-size: 16px;
+  border: 0;
+  width: fit-content;
+}
+
+div.custom-btn:active {
+  opacity: .85;
+}
+
