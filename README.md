@@ -1,5 +1,7 @@
 # appstract-piano
 
+![preview](src/assets/preview.png)
+
 ## Project setup
 Run this first:
 ```
